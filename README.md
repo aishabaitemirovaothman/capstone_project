@@ -7,3 +7,22 @@ Mental health issues is a big problem that is affecting the lives of millions of
 
 The analyzer predicts whether the post/comment is positive or negative or neutral. The comment that is flagged as negative by the analyzer could potentially belong to someone who is suffering from some kind of mental health issue such as depression, anxiety or PTSD. 
 
+## Business Problem
+
+## Method
+
+## Results
+
+## Evaluation
+
+## Conclusion
+
+## Recommendations
+
+## Future Work
+
+## For More Information
+
+## Repository Structure
+
+

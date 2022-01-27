@@ -68,4 +68,9 @@ Please have a look at my code and my presentation.
 
 ## Repository Structure
 
-
+├── README.md                           <- The top-level README for reviewers of this project
+├── intro_problem_EDA.ipynb             <- First notebook. Data understanding & EDA.
+├── preprocess_model_evaluate.ipynb     <- Second notebook. Preprocessing & models.
+├── API_and_predict.ipynb               <- Third notebook. API calls & new predictions.
+├── cyberbullying_detection.pdf         <- PDF version of project presentation
+└── images                              <- Visualizations generated for analysis

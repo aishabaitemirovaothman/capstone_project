@@ -17,7 +17,11 @@ I performed all the steps of preprocessing my dataset to get it ready for feedin
 
 <img width="418" alt="Screen Shot 2022-01-27 at 10 01 28" src="https://user-images.githubusercontent.com/92397144/151396196-533ca13f-44b2-491d-8d86-ddbea7fc3661.png">
 
-After that I performed a vectorization using TfidfVectorizer and the train - test split of the resulting feature vectors. At first I tried the vectorization on the whole dataset, but I encountered some technical issues because of the computing limitations on my laptop due to RAM not being enough so I had to trim the dataset all the way to 600 000 observations. In the vectorizer I specified the parameters min_df and max_df because I only wanted to keep the terms that were within a specific window of frequency in the document. That way I ended up with 619 features that I used to feed into TruncatedSVD of sklearn to perform dimensionality reduction. As a result I ended up with 300 features.
+After that I performed a vectorization using TfidfVectorizer and the train - test split of the resulting feature vectors. At first I tried the vectorization on the whole dataset, but I encountered some technical issues because of the computing limitations on my laptop due to RAM not being enough so I had to trim the dataset all the way to 600 000 observations. In the vectorizer I specified the parameters min_df and max_df because I only wanted to keep the terms that were within a specific window of frequency in the document. That way I ended up with 619 features that I used to feed into TruncatedSVD of sklearn to perform dimensionality reduction. As a result I ended up with 300 features. 
+
+The models that I used for prediction were : Gaussian Naive Bayes (baseline model), Logistic Regression, Decision Tree Classifier, Random Forest Classifier, and Neural Networks. The results that I obtained were unfortunately not satisfactory. 
+
+
 
 
 

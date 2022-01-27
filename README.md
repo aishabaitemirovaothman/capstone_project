@@ -1,6 +1,4 @@
-
-![getty_1173146314_417254](https://user-images.githubusercontent.com/92397144/151436001-928493fe-33bc-40d2-8a0a-cb5b42928225.jpg)
-
+<img width="1300" alt="Screen Shot 2022-01-27 at 14 10 57" src="https://user-images.githubusercontent.com/92397144/151436220-40cfc2dd-8d54-4665-b29c-ee484a4efb9e.png">
 
 # Sentiment Analysis Of Comments On Social Media
 Author: Aisha Baitemirova - Othman

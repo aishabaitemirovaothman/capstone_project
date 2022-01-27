@@ -69,10 +69,3 @@ Please have a look at my code and my presentation.
 ## Repository Structure
 
 
-├── [data]
-├── [images]
-├── .gitignore
-├── README.md
-├── finalnotebook.ipynb
-├── finalnotebook.pdf
-└── presentation.pdf

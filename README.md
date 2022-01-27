@@ -1,5 +1,5 @@
 
-![6468787a55c4ac6f6442723114b81990](https://user-images.githubusercontent.com/92397144/151435954-6ca56099-2259-4998-ba16-9142fa5a1010.jpg)
+![getty_1173146314_417254](https://user-images.githubusercontent.com/92397144/151436001-928493fe-33bc-40d2-8a0a-cb5b42928225.jpg)
 
 
 # Sentiment Analysis Of Comments On Social Media

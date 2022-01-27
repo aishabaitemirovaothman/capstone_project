@@ -13,7 +13,7 @@ I decided to work on a sentiment analyzer that would be able to detect negative 
 
 ## Method
 
-I performed all the steps of preprocessing my dataset to get it ready for feeding it into the machine learning models. I started with a dataset that contains 1.6 million comments from Twitter. First I performed the tokenization, lemmatization and stemming on the dataset as well as removal of stopwords. After that I got rid of all the words that appeared in the whole dataset less than 15 times thereby reducing the number of features that will be created by vectorization. The dataset was balanced with roughly half of the observations being labeled as negative, and the other half being labeled nonnegative. 
+I performed preprocessing techniques to my dataset to get it ready for feeding it into the machine learning models. I started with a dataset that contains 1.6 million comments from Twitter. First I performed the tokenization, lemmatization and stemming on the dataset as well as removal of stopwords. After that I got rid of all the words that appeared in the whole dataset less than 15 times thereby reducing the number of features that will be created by vectorization. The dataset was balanced with roughly half of the observations being labeled as negative, and the other half being labeled nonnegative. 
 
 <img width="418" alt="Screen Shot 2022-01-27 at 10 01 28" src="https://user-images.githubusercontent.com/92397144/151396196-533ca13f-44b2-491d-8d86-ddbea7fc3661.png"> 
 

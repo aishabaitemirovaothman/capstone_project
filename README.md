@@ -1,3 +1,6 @@
+
+![social-media-sentiment-analysis](https://user-images.githubusercontent.com/92397144/151435504-7a6847c3-6612-4a00-81ad-bc5f105f30ec.png)
+
 # Sentiment Analysis Of Comments On Social Media
 Author: Aisha Baitemirova - Othman
 

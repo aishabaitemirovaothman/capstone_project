@@ -37,6 +37,11 @@ Neural Networks (150 epochs): 0.5259
 
 I used GridSearch CV on all the models except for the baseline model and the results did not improve significantly. 
 
+I wanted to check if the reaason why the models performed so poorly was because the target labels were not accurate. I figured that a good way to check would be to recreate my own labels using unsupervised learning models and rerun the models using those new labels and see if the performance improved. I used KMeans Clustering and Hierarchical clustering for creating new labels. With each model I tried creating first two then several clusters to see if the actual number of categories in the dataset was more than two.
+
+<img width="410" alt="Screen Shot 2022-01-26 at 00 20 11" src="https://user-images.githubusercontent.com/92397144/151407019-c2521c8a-1468-4a8e-a283-69e42ac6249c.png">
+
+
 ## Evaluation
 
 ## Conclusion

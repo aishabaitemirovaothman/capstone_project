@@ -31,13 +31,13 @@ The models that I used for prediction were : Gaussian Naive Bayes (baseline mode
 
 Gaussian Naive Bayes (baseline model) accuracy score: 0.40763636363636363
 
-Logistic Regression: 0.6265454545454545
+Logistic Regression accuracy score: 0.6265454545454545
 
-Decision Tree Classifier: 0.6253333333333333
+Decision Tree Classifier accuracy score: 0.6253333333333333
 
-Random Forest Classifier: 0.5142424242424243
+Random Forest Classifier accuracy score: 0.5142424242424243
 
-Neural Networks (150 epochs): 0.5259
+Neural Networks (150 epochs) accuracy score: 0.5259
 
 I used GridSearch CV on all the models except for the baseline model and the results did not improve significantly. 
 

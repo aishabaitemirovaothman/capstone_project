@@ -41,10 +41,12 @@ I wanted to check if the reaason why the models performed so poorly was because 
 
 <img width="410" alt="Screen Shot 2022-01-26 at 00 20 11" src="https://user-images.githubusercontent.com/92397144/151407019-c2521c8a-1468-4a8e-a283-69e42ac6249c.png">
 
-I ran the Logistic Regression model again using the new target labels created by the unsupervised models, and unfortunately the accuracy score that I obtained dropped to 40 percent (down from 60 percent the first time).  
+I ran the Logistic Regression model again using the new target labels created by the unsupervised models, and unfortunately the accuracy score that I obtained dropped to 40 percent (down from 60 percent the first time). 
 
 
 ## Evaluation
+
+I have several possible explanations as to why the accuracy scores of the models were so low. The first possibility is that the dataset was not labeled properly. The second possible explanation is that even after all the preprocessing steps taken, there is still some noise left in the dataset that needs to be detected and removed before running the models again. Another possible explanation is that the vectorizer that I used did not pick up the most important words properly. I am hoping that trying new vectorizers such as HashingVectorizer or CountVectorizer could help. 
 
 ## Conclusion
 

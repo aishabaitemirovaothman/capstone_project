@@ -69,7 +69,11 @@ Please have a look at my code and my presentation.
 ## Repository Structure
 
 ├── [data]
+
 ├── [images]
+
 ├── .gitignore
+
 ├── README.md
+
 └── notebook.ipynb

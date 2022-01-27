@@ -27,9 +27,15 @@ After that I performed a vectorization using TfidfVectorizer and the train - tes
 
 ## Results
 
-The models that I used for prediction were : Gaussian Naive Bayes (baseline model), Logistic Regression, Decision Tree Classifier, Random Forest Classifier, and Neural Networks. The results that I obtained were unfortunately not satisfactory enough.  
+The models that I used for prediction were : Gaussian Naive Bayes (baseline model), Logistic Regression, Decision Tree Classifier, Random Forest Classifier, and Neural Networks. The results that I obtained were unfortunately not satisfactory enough. 
 
+Gaussian Naive Bayes (baseline model) accuracy score: 0.40763636363636363
+Logistic Regression: 0.6265454545454545
+Decision Tree Classifier: 0.6253333333333333
+Random Forest Classifier: 0.5142424242424243
+Neural Networks (150 epochs): 0.5259
 
+I used GridSearch CV on all the models except for the baseline model and the results did not improve significantly. 
 
 ## Evaluation
 

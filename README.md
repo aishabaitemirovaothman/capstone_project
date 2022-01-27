@@ -64,6 +64,8 @@ Whenever I reach some optimal results I would like to go further and work on mak
 
 ## For More Information
 
+Please have a look at my code and my presentation.
+
 ## Repository Structure
 
 

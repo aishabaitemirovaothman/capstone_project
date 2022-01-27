@@ -52,9 +52,15 @@ I have several possible explanations as to why the accuracy scores of the models
 
 My conclusion is that the detector is not ready to be deployed yet if one were to focus on the accuracy score. However, if we were to focus on recall score instead of the accuracy score than the picture looks different. In the case of this detector we prefer to make type I Error, meaning that it is better to identify someone as posting negative comments and send him/her inspirational ads/posts even if in reality their comments were not negative. It is preferable to having type II Error and ignore someone who is posting negative comments and that person would miss on the benefits of being regularly exposed to some positive content sent out by the social media algorithm to those who were flagged as posting negative comments. In this case we would focus on recall score because it measures how good a particular machine learning model is at identifying true positives. The decision tree classifier that I ran after adjusting the hyperparameters had a recall score of 96 percent. That means that the model correctly identified the true positives (in this case the negative comments) 96 percent of the time. So the readiness of the prediction model depends on whether one wants to focus on the accuracy score or the recall score. 
 
-## Recommendations
-
 ## Future Work
+
+I will keep working on improving the results of my models so I have some steps in mind that I want to take in order to raise the accuracy score:
+
+1) Try a new vectorizer that would identify most important words in the document more efficiently. 
+2) Try other types of Neural Networks.
+3) Use Word Embedding.
+
+Whenever I reach some optimal results I would like to go further and work on making predictions on depression, anger or sarcasm.
 
 ## For More Information
 

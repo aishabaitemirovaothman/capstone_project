@@ -29,13 +29,13 @@ After that I performed a vectorization using TfidfVectorizer and the train - tes
 
 The models that I used for prediction were : Gaussian Naive Bayes (baseline model), Logistic Regression, Decision Tree Classifier, Random Forest Classifier, and Neural Networks. The results that I obtained were unfortunately not satisfactory enough. 
 
-Gaussian Naive Bayes (baseline model) accuracy score: 0.40763636363636363
+Gaussian Naive Bayes (baseline model) accuracy score: 0.4076
 
-Logistic Regression accuracy score: 0.6265454545454545
+Logistic Regression accuracy score: 0.6265
 
-Decision Tree Classifier accuracy score: 0.6253333333333333
+Decision Tree Classifier accuracy score: 0.6253
 
-Random Forest Classifier accuracy score: 0.5142424242424243
+Random Forest Classifier accuracy score: 0.5142
 
 Neural Networks (150 epochs) accuracy score: 0.5259
 

@@ -70,7 +70,7 @@ Whenever I reach some optimal results I would like to go further and work on mak
 
 ## For More Information
 
-Please have a look at my code and [my presentation](https://github.com/aishabaitemirovaothman/capstone_project/blob/main/presentation.pdf).
+Please have a look at my jupyter notebooks ([preprocessing](https://github.com/aishabaitemirovaothman/capstone_project/blob/main/notebook_preprocessing.ipynb) and [modeling](https://github.com/aishabaitemirovaothman/capstone_project/blob/main/modeling.ipynb)) and [my presentation](https://github.com/aishabaitemirovaothman/capstone_project/blob/main/presentation.pdf).
 
 ## Repository Structure
 ```

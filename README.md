@@ -75,8 +75,12 @@ Please have a look at my jupyter notebooks ([preprocessing](https://github.com/a
 ## Repository Structure
 ```
 ├── [data]
+├── .DS_Store
 ├── [images]
 ├── .gitignore
 ├── README.md
-└── notebook.ipynb
+├── modeling.ipynb
+├── notebook_preprocessing.ipynb
+└──  presentation.pdf
+
 ```
